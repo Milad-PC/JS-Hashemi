@@ -1,0 +1,1 @@
+var arr = [23,65,98,"Light","Milad"];

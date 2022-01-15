@@ -1,0 +1,17 @@
+1 (a) - false // Use Keyword var
+1 (b) - true
+1 (c) - true
+1 (d) - false // need var first
+1 (e) - false // Use Keyword case
+2 - false // page 62
+3 - 
+en {
+    input : numOrdered
+
+    if input < 0 or input = 0 then => return 0
+    if input > 0 then => return input * 5
+}
+fa {
+    age vorodi 0 ya zire 0 bashe => hmon sefr barmigardone
+    age vorodi bozorgtr az 0 bashe => 5 barabare vorodi ro barmigardone
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+            function Increase(num){
+                if(!isNaN(num)){
+                    alert(num + "isn't a number");
+                    return;
+                }
+                return ++num;
+            }
+        </script>
+    </head>
+    <body>
+        <script>
+            alert(Increase(10));
+        </script>
+    </body>
+</html>
